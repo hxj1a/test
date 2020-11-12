@@ -1,5 +1,5 @@
 public void get(){
 
-system.out.print('hgghghghgfggf');
+system.out.print('hgghghghgfggf')fgfgfgfg
 hghghghghgh
 }

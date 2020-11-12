@@ -1,6 +1,7 @@
 public void get(){
-
 system.out.print('hgghghghgfggf')非官方个规范法规
-gfgfgfgfg
+gfgfgfgf
+system.out.print('hgghghghgfggf')fgfgfgfg
+hghghghghgh
 }
 
